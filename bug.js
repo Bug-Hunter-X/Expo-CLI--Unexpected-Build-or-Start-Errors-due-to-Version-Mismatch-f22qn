@@ -1,0 +1,1 @@
+This error typically occurs when you're using a feature or library within Expo that isn't fully compatible with the version of Expo CLI you're using or when there is a conflict between the libraries you have installed.  For example, if you are using an older version of a library and your Expo CLI version has stricter requirements that conflict, this issue can occur.
